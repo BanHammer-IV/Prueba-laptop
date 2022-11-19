@@ -1,0 +1,39 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+body{
+    background-color: #B85454;
+}
+.cuadrado2
+{
+    background-color: #7955BC;
+    border-right-color: #482687;
+    border-bottom-color: #482687;
+    border-left-color: #8a76af;
+    border-top-color: #8a76af;
+    border-radius: 10px;
+    border-width: 8px;
+    border-style: solid;
+    margin: 10px;
+    width: 400px;
+    height: 630px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.cuadrado3
+{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    border-radius: 10px;
+    border-color: crimson;
+    border-style: solid;
+    margin-left: 431px;
+    margin-top: 196px;
+    border-width: 8px
+
+}
